@@ -1,11 +1,12 @@
 # my-first-Web
-A simple blog with log-in, posting, editing, and deleting functions.
+A simple blog with log-in, posting, editing, and deleting functions using Bootstrap and MongoDB for managing data. 
 
-#Getting Started
+## Getting Started
+Add Bootsrap
+```<script = >```
+Install MongoDB
+```npm install mongo```
 
-
-
-What:  Log-in, Post, Edit / Delete Posts
 
 How: HTML, CSS, Bootstrap, MongoDB, Nodejs
 
