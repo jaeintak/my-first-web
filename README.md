@@ -1,4 +1,10 @@
-# My-First-Web
+# my-first-Web
+A simple blog with log-in, posting, editing, and deleting functions.
+
+#Getting Started
+
+
+
 What:  Log-in, Post, Edit / Delete Posts
 
 How: HTML, CSS, Bootstrap, MongoDB, Nodejs
