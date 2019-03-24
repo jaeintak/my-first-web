@@ -1,4 +1,4 @@
-# my-first-Web
+# my-first-web
 A simple blog with log-in, posting, editing, and deleting functions using Bootstrap and MongoDB for managing data. 
 
 ## Getting Started
