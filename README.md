@@ -12,6 +12,5 @@ Install MongoDB
 ## Built With
 Bootstrap, HTML, CSS, MongoDB, Nodejs
 ## Acknowledgments
-
-Need to work on: Social Log-in, Authorize Edit / Delete Posts
+codedamn
 
