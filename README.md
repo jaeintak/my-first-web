@@ -7,8 +7,11 @@ Add Bootsrap
 Install MongoDB
 ```npm install mongo```
 
-
-How: HTML, CSS, Bootstrap, MongoDB, Nodejs
+## Running the tests
+## Deployment
+## Built With
+Bootstrap, HTML, CSS, MongoDB, Nodejs
+## Acknowledgments
 
 Need to work on: Social Log-in, Authorize Edit / Delete Posts
 
